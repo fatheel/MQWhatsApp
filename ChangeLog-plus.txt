@@ -1,8 +1,6 @@
-{ "VERSION_CODE":452646، "المحتوى": "
+{"version_code":452646,"content":"
 
-<p> تحديث 6.85 </p>
-
-<li> التحديث لنسخة الماركت 2.19.17 </li>
+<p>التحديث لنسخة الماركت 2.19.17</p>
 
 <li> نسخة ضد الحظر </li>
 
@@ -34,6 +32,7 @@
 
 <li> إصلاحات كثيرة أخرى </ li>
 
-"،" رابط ":" https://www.mosaqyqb.com/2019/03/mqwhatsapp-395.html "
+","url":"https://www.mosaqyqb.com/2019/03/mqwhatsapp-395.html"
 
 }
+
